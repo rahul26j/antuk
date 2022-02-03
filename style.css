@@ -8,6 +8,10 @@
 html{
     scroll-behavior: smooth;
 }
+nav {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    
+  }
 .navbar{
     background: white;
     padding: 1rem 3rem;
@@ -15,18 +19,26 @@ html{
 }
 
 .navbar .navbar-brand{
-    font-size: 1.4rem;
+    font-size: 1.7rem;
     font-weight: bolder;
-    color: rgb(124, 101, 206);
+    color: #25963E;
     font-weight: bolder; 
+    padding-bottom: 10px;
+    
+    
    
+}
+.nav-item{
+    
+    padding-bottom: 10px;
 }
 
 #navbarSupportedContent > ul > li:nth-child(n) > a{
-    color: rgb(124, 101, 206);
+    color: #25963E;
 font-size: 1rem;
 padding: 0 0.8rem;
 font-weight: bolder;
+
 }
 
 #navbarSupportedContent > ul > li:nth-child(n) > a.active,
@@ -40,18 +52,26 @@ font-weight: bolder;
     
   
   .center h1{
-      font-size: 4.2vw;
+      font-size: 50px;
       font-weight: bolder;
-      color: rgb(124, 101, 206);
+      color: #25963E;
+      font-family: 'Poppins', sans-serif;
       
 
       
   }
-  .center p{
-    font-size: 3vw;
+  .center h4{
+    font-size: 20px;
     font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+    
+
     
     
+}
+p{
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
 }
   .center{
       position: absolute;
