@@ -34,7 +34,7 @@ nav {
 }
 
 #navbarSupportedContent > ul > li:nth-child(n) > a{
-    color: #25963E;
+    color: #224d2c;
 font-size: 1rem;
 padding: 0 0.8rem;
 font-weight: bolder;
@@ -54,7 +54,7 @@ font-weight: bolder;
   .center h1{
       font-size: 50px;
       font-weight: bolder;
-      color: #25963E;
+      color: #224d2c;
       font-family: 'Poppins', sans-serif;
       
 
